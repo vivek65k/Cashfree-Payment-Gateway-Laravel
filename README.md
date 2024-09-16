@@ -64,3 +64,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Watch the Tutorial Video
+
+[![Cashfree Payment Gateway Integration in Laravel](https://img.youtube.com/vi/ZKdREIGwW9Q/maxresdefault.jpg)](https://youtu.be/ZKdREIGwW9Q)
+
